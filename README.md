@@ -1,4 +1,6 @@
 # Google Fonts Files
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Ffonts.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Ffonts?ref=badge_shield)
+
 
 This project contains the binary font files served by Google Fonts: http://www.google.com/fonts
 
@@ -18,6 +20,9 @@ Some fonts use the Apache 2 license.
 The Ubuntu fonts use the Ubuntu Font License v1.0. 
 
 The SIL Open Font License has an option for copyright holders to include a Reserved Font Name requirement, please take care of this important detail.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Ffonts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Ffonts?ref=badge_large)
 
 ## Source Files
 
